@@ -11,4 +11,4 @@ Hand Gesture Controlled Presentation using OpenCV (Machine Learning)
 2. Gesture 2 - Little Finger - Move to Next Slide
 3. Gesture 3 - Index Finger and Middle Finger Together - Holding the Pointer
 4. Gesture 4 - Index Finger - Drawing on the Slide
-5. Gesture 5 - Middle Three Fingers - Erase/ Undo the Previous Draw
+5. Gesture 5 - Middle Three Fingers - Erase/Undo the Previous Draw
