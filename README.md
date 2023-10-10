@@ -2,7 +2,7 @@
 
 Contributors: Sruthi S, Swetha S
 
-Hand Gesture Controlled Presentation using OpenCV and MediaPipe(Computer Vision)
+Hand Gesture Controlled Presentation using OpenCV and MediaPipe   (Computer Vision)
 
 
 ![HGCP_Image](https://github.com/Swetha5021/HandGestureControlledPresentation-OpenCV/assets/110710815/31fcb8dc-bc7a-4c7e-a859-a0710aef099e)
