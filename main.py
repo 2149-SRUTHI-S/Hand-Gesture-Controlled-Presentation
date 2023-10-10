@@ -134,6 +134,7 @@ while True:
     imgCurrent = cv2.resize(imgCurrent, (int(width * 0.7), int(height * 0.7)))
 
     cv2.imshow("Slides", imgCurrent)
+    
     cv2.imshow("Image", img)
 
     #Quit
