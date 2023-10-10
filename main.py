@@ -46,12 +46,15 @@ while True:
     if hands and buttonPressed is False:
         hand = hands[0]
         fingers = detector.fingersUp(hand)
+        
         cx,cy = hand['center']
         lmList = hand['lmList']
 
         indexFinger = lmList[8][0], lmList[8][1]
+        
         xVal = int(np.interp(lmList[8][0], [width//2, width], [0, ws]))
         yVal = int(np.interp(lmList[8][1], [150, height-150], [0, hs]))
+        
         #indexFinger = xVal, yVal
 
         #Gesture 1 - Previous Slide
