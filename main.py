@@ -23,9 +23,11 @@ imgNumber = 0
 hs, ws = int(120 * 2.5), int(213 * 2.5)
 gestureThreshold = 300
 buttonPressed = False
+
 buttonCounter = 0
 buttonDelay = 25
 annotations = [[]]
+
 annotationNumber = -1
 annotationStart = False
 pointerX, pointerY = 0, 0
