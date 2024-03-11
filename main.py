@@ -2,7 +2,7 @@
 # Contributors: Sruthi S, Swetha S 
 # RMKEC  
     
-import os
+import os  
 import cv2
 import numpy as np
 from cvzone.HandTrackingModule import HandDetector
