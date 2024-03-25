@@ -1,7 +1,7 @@
 # HAND GESTURE CONTROLLED PRESENTATION USING OPENCV
 # Contributors: Sruthi S, Swetha S 
 # RMKEC    
-                 
+                    
 import os  
 import cv2
 import numpy as np
