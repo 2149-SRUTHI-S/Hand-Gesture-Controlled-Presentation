@@ -1,5 +1,5 @@
 # HAND GESTURE CONTROLLED PRESENTATION USING OPENCV
-# Contributors: Sruthi S, Swetha S 
+# By Sruthi Sivasankararaj
 # RMKEC    
                          
 import os  
