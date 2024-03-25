@@ -1,6 +1,6 @@
 # HAND GESTURE CONTROLLED PRESENTATION USING OPENCV
 # By Sruthi Sivasankararaj   
-# RMKEC    
+# RMKEC           
                          
 import os  
 import cv2
