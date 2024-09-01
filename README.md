@@ -1,7 +1,5 @@
 # Hand-Gesture-Controlled-Presentation
 
-Contributors: Sruthi S, Swetha S
-
 Hand Gesture Controlled Presentation using OpenCV and MediaPipe (Computer Vision)
 
 
